@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://mattjm1007.github.io/Stats-Preview-Card/)
-- Live Site URL: [Add live site URL here](https://github.com/MattJM1007/Stats-Preview-Card)
+- Solution URL: [Add solution URL here](https://github.com/MattJM1007/Stats-Preview-Card)
+- Live Site URL: [Add live site URL here](https://mattjm1007.github.io/Stats-Preview-Card/)
 
 ## My process
 
